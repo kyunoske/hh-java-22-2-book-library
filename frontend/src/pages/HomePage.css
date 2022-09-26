@@ -1,0 +1,9 @@
+.homepage-container {
+    display: flex;
+}
+
+.h1 {
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
