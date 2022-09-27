@@ -2,8 +2,9 @@
     display: flex;
 }
 
-.h1 {
-    text-align: center;
-    align-content: center;
-    justify-content: center;
+.input-container {
+    height: 70px;
+    width: 60%;
+    width: 70%;
+    padding: 20px 11px;
 }
